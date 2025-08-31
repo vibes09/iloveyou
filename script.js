@@ -1,4 +1,4 @@
-const message = `Aku minta maaf untuk semuanya, aku minta maaf karena selama ini aku udah nyakitin kamu tanpa sadar, aku benar-benar minta maaf. And I want you to know, I'll be here, waiting for you.\n\nWe still love each other bby, please give our relationship one last chance bby, satu kali untuk terakhir kalinya.\n\nI will be better than before, hubungan kita akan lebih baik dari sebelomnya karena kita sudah mengenal satu sama lain.\n\nAku ga bisa pergi ninggalin kamu gitu aja bby, aku mau usahain sekali lagi, aku mau nunjukkin kalo aku berubah, aku mau nngasih kamu yang lebih terbaik bby.`;
+const message = `Aku minta maaf untuk semuanya, aku minta maaf karena selama ini aku udah nyakitin kamu tanpa sadar, aku benar-benar minta maaf. And I want you to know, I'll be here, waiting for you.\n\nWe still love each other bby, please give our relationship one last chance bby, satu kali untuk terakhir kalinya.\n\nI will be better than before, hubungan kita akan lebih baik dari sebelomnya karena kita sudah mengenal satu sama lain.\n\nAku ga bisa pergi ninggalin kamu gitu aja bby, aku mau usahain sekali lagi, aku mau nunjukkin kalo aku berubah, aku mau ngasih yang terbaik bby.`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -21,6 +21,7 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
 
 
 
